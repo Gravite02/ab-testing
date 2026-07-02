@@ -18,25 +18,19 @@ Each version's `.csv` file contains element-level click data scraped from the co
 ## Repo structure
 
 ```
-eniac-ab-testing/
+hexal-ab-testing/
 ├── data/
 │   ├── hexal_a.csv     # Control
 │   ├── hexal_b.csv     # Red button
 │   ├── hexal_c.csv     # "SEE DEALS" text
 │   └── hexal_d.csv     # Red + "SEE DEALS"
 └── notebooks/
-    ├── one_sample_t_test_solutions.ipynb
-    ├── two_sample_t_test_solutions.ipynb
-    ├── chi_square_test_solutions.ipynb
     └── hexal_case_solutions.ipynb   # Full A/B test analysis
 ```
 
 ## Notebooks
 
-1. **One-sample t-test** – testing a sample mean against a known/hypothesized population value.
-2. **Two-sample t-test** – comparing means between two independent groups.
-3. **Chi-square test** – testing independence/association between categorical variables.
-4. **Eniac case study** – applies these tests to the A/B experiment above, comparing conversion rates across versions A–D to determine whether the button redesign meaningfully improves CTR, and by how much.
+1. **Hexal case study** – applies these tests to the A/B experiment above, comparing conversion rates across versions A–D to determine whether the button redesign meaningfully improves CTR, and by how much.
 
 ## Key questions explored
 
