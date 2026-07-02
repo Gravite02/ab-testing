@@ -1,10 +1,10 @@
-# ENIAC A/B Testing & Hypothesis Testing
+# HEXAL A/B Testing & Hypothesis Testing
 
-Coursework covering hypothesis testing fundamentals and a full A/B test case study on Eniac's "SHOP NOW" button redesign.
+Coursework covering hypothesis testing fundamentals and a full A/B test case study on Hexal's "SHOP NOW" button redesign.
 
 ## Background
 
-Eniac's Marketing team wants to increase the click-through rate (CTR) of the **"SHOP NOW"** button. Design produced three alternative versions to test against the original:
+Hexal's Marketing team wants to increase the click-through rate (CTR) of the **"SHOP NOW"** button. Design produced three alternative versions to test against the original:
 
 | Version | Change |
 |---|---|
@@ -20,15 +20,15 @@ Each version's `.csv` file contains element-level click data scraped from the co
 ```
 eniac-ab-testing/
 ├── data/
-│   ├── eniac_a.csv     # Control
-│   ├── eniac_b.csv     # Red button
-│   ├── eniac_c.csv     # "SEE DEALS" text
-│   └── eniac_d.csv     # Red + "SEE DEALS"
+│   ├── hexal_a.csv     # Control
+│   ├── hexal_b.csv     # Red button
+│   ├── hexal_c.csv     # "SEE DEALS" text
+│   └── hexal_d.csv     # Red + "SEE DEALS"
 └── notebooks/
-    ├── 4_one_sample_t_test_solutions.ipynb
-    ├── 5_two_sample_t_test_solutions.ipynb
-    ├── 6_chi_square_test_solutions.ipynb
-    └── 7_eniac_case_solutions.ipynb   # Full A/B test analysis
+    ├── one_sample_t_test_solutions.ipynb
+    ├── two_sample_t_test_solutions.ipynb
+    ├── chi_square_test_solutions.ipynb
+    └── hexal_case_solutions.ipynb   # Full A/B test analysis
 ```
 
 ## Notebooks
