@@ -1,0 +1,58 @@
+Element ID,Tag name,Name,No. clicks,Visible?
+48,h1,ENIAC,285,TRUE
+25,div,mySidebar,305,TRUE
+4,a,Mac,274,TRUE
+69,a,iPhone,243,TRUE
+105,a,Accessories,1267,TRUE
+36,a,Chargers & Cables,1260,FALSE
+99,a,iPhone Accessories,1296,FALSE
+68,a,Watch Accessories,1252,FALSE
+13,a,Mac Accessories,1273,FALSE
+15,a,AirTag,201,FALSE
+9,a,iPad,200,TRUE
+52,a,Watch,195,TRUE
+33,a,Storage,205,TRUE
+90,a,Services,163,TRUE
+59,a,Contact,288,TRUE
+17,a,Newsletter,43,TRUE
+74,a,Subscribe,47,TRUE
+18,div,w3-padding-64,302,TRUE
+88,div,w3-display-container,302,TRUE
+76,img,Jeans,900,TRUE
+20,div,w3-display-topleft,334,TRUE
+128,a,SEE DEALS,193,TRUE
+72,img,iphone13_cover,871,TRUE
+46,img,abstract-case,911,TRUE
+6,img,airpods,908,TRUE
+16,img,watch-lgtb,884,TRUE
+30,img,blue-strap,862,TRUE
+108,img,cartoon-case,874,TRUE
+117,img,hermes-case,894,TRUE
+111,img,leopard-case,865,TRUE
+125,img,magnetic-case,888,TRUE
+103,input,Enter e-mail,212,TRUE
+39,button,Subscribe,54,TRUE
+7,div,w3-input,313,TRUE
+81,h4,Contact,251,TRUE
+82,input,Name,187,TRUE
+120,input,Email,180,TRUE
+119,input,Subject,179,TRUE
+32,input,Message,179,TRUE
+73,button,Send,173,TRUE
+67,a,About us,46,TRUE
+54,a,We're hiring,37,TRUE
+84,a,Support,36,TRUE
+34,a,Find store,41,TRUE
+27,a,Shipment,37,TRUE
+21,a,Payment,36,TRUE
+64,a,Gift card,47,TRUE
+113,a,Return,25,TRUE
+53,a,Help,37,TRUE
+60,a,telphone-contact,124,TRUE
+71,a,email-contact,117,TRUE
+8,a,Facebook,293,TRUE
+96,a,Instagram,274,TRUE
+114,a,Snapchat,252,TRUE
+40,a,Pinterest,300,TRUE
+26,a,Twitter,265,TRUE
+98,a,LinkedIn,263,TRUE
